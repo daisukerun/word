@@ -1,0 +1,148 @@
+# Translation of Themes - Highlight in Japanese
+# This file is distributed under the same license as the Themes - Highlight package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-21 14:17:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Highlight\n"
+
+#. Theme Name of the theme
+msgid "Highlight"
+msgstr "Highlight"
+
+#. Description of the theme
+msgid "Highlight is an incredibly flexible, multipurpose WordPress theme that can help you create an amazing website easier than ever, by drag and drop. It comes with a predesigned home page, 5 header designs and over 30 ready to use content sections that you can easily customize. It also has lots of customization options (video background, slideshow background, header content types, gradient overlays, etc) that will help you create a beautiful, unique website in no time. Highlight is responsive so it works on mobile devices out of the box and it is also WooCommerce ready."
+msgstr "Highlight はドラッグ & ドロップですてきなサイトを簡単に作成するのをお手伝いする、非常に柔軟な多目的 WordPress テーマです。あらかじめデザインされたホームページ、5つのヘッダーデザイン、30個以上のすぐに使えてカスタマイズ可能なコンテンツセクションが含まれています。また、美しくユニークなサイトをすばやく作るのに便利なカスタマイズオプション (動画背景、スライドショー背景、ヘッダーコンテンツタイプ、グラデーションオーバーレイなど) も用意されています。Highlight はレスポンシブテーマなので、箱から出してすぐに使えるモバイルデバイスでも機能し、WooCommerce にも対応しています。"
+
+#: functions.php:178
+msgid "Mesmerize Companion plugin adds drag and drop functionality and many other features to the Highlight theme."
+msgstr "Mesmerize コンパニオンプラグインは、ドラッグ & ドロップなど多くの機能を Highlight テーマに追加します。"
+
+#: functions.php:168
+msgid "Highlight PRO"
+msgstr "Highlight PRO"
+
+#: functions.php:195
+msgid "Built using WordPress and the %s"
+msgstr "WordPress と%sを使って構築した"
+
+#: functions.php:162
+msgid "Highlight Demos"
+msgstr "Highlight デモ"
+
+#: inc/side-navigation.php:88
+msgid "None"
+msgstr "なし"
+
+#: inc/side-navigation.php:65 inc/template-functions.php:27
+msgid "Top"
+msgstr "上"
+
+#: template-parts/content-single.php:30
+msgid "Previous post:"
+msgstr "前の記事: "
+
+#: template-parts/content-single.php:29
+msgid "Previous:"
+msgstr "前: "
+
+#: template-parts/content-single.php:26
+msgid "Next post:"
+msgstr "次の記事: "
+
+#: template-parts/content-single.php:25
+msgid "Next:"
+msgstr "次: "
+
+#: template-parts/content-single.php:16
+msgid "Page"
+msgstr "ページ"
+
+#: template-parts/content-single.php:12
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/content-post-meta.php:11
+msgid "on"
+msgstr "投稿日:"
+
+#: template-parts/content-post-meta.php:10
+msgid "in"
+msgstr "に"
+
+#: template-parts/content-post-meta.php:9
+msgid "by"
+msgstr "投稿者:"
+
+#: inc/admin.php:49
+msgid "To enable all the theme features, please install the companion plugin"
+msgstr "すべてのテーマ機能を有効にするには、コンパニオンプラグインをインストールしてください。"
+
+#: inc/side-navigation.php:126
+msgid "Side navigation"
+msgstr "サイドナビゲーション"
+
+#: inc/side-navigation.php:110
+msgid "Hide main menu"
+msgstr "メインメニューを隠す"
+
+#: inc/side-navigation.php:87
+msgid "All sections"
+msgstr "すべてのセクション"
+
+#: inc/side-navigation.php:86
+msgid "Active section only"
+msgstr "アクティブセクションのみ"
+
+#: inc/side-navigation.php:82
+msgid "Visible labels"
+msgstr "表示ラベル"
+
+#: inc/side-navigation.php:60
+msgid "Page hero bullet label"
+msgstr "hero ページの弾丸ラベル"
+
+#: inc/side-navigation.php:43
+msgid "Show only after scroll"
+msgstr "スクロール後にのみ表示"
+
+#: inc/side-navigation.php:26
+msgid "Show page hero bullet"
+msgstr "hero ページの弾丸を表示"
+
+#: inc/side-navigation.php:16
+msgid "Enable side navigation"
+msgstr "サイドナビゲーションを有効化"
+
+#: inc/side-navigation.php:8
+msgid "Side navigation options"
+msgstr "サイドナビゲーションの設定"
+
+#: functions.php:200
+msgid "Y"
+msgstr "Y"
+
+#: functions.php:173
+msgid "Thank you for choosing Highlight!"
+msgstr "Highlight のご利用ありがとうございます。"
+
+#: functions.php:156
+msgid "Highlight Info"
+msgstr "Highlight について"
+
+#. Theme URI of the theme
+msgid "https://extendthemes.com/highlight"
+msgstr "https://extendthemes.com/highlight"
+
+#. Author URI of the theme
+msgid "https://extendthemes.com/"
+msgstr "https://extendthemes.com/"
+
+#. Author of the theme
+msgid "ExtendThemes"
+msgstr "ExtendThemes"
